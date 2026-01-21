@@ -44,7 +44,7 @@
         "volumeStep": 2
     },
     "bar": {
-        "backgroundOpacity": 1,
+        "backgroundOpacity": 0.85,
         "capsuleOpacity": 1,
         "density": "default",
         "exclusive": true,
@@ -162,13 +162,6 @@
                     "hideWhenZeroUnread": false,
                     "id": "NotificationHistory",
                     "showUnreadBadge": true
-                },
-                {
-                    "defaultSettings": {
-                        "compactMode": false,
-                        "defaultDuration": 0
-                    },
-                    "id": "plugin:timer"
                 },
                 {
                     "displayMode": "onhover",
